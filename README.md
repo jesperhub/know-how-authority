@@ -22,6 +22,7 @@ How They SRE is a curated knowledge repository of best practices, tools, techniq
 ### Vue
 [**Vue Mastery**](https://www.vuemastery.com/) 💲
 The ultimate learning resource for Vue developers.
+
 [**Mastering Nuxt**](https://masteringnuxt.com/) 💲
 The complete guide to developing and deploying fast, production-ready Nuxt apps.
 
